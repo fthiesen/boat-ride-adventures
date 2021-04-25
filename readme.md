@@ -75,7 +75,3 @@ Each HTML file should have it's own .scss file following the name convention bel
 ```
 index.html => /styles/sass/_index.scss
 ```
-
-# Project link
-
-[Beatrice Duncan & Fernanda Thiesen - Project One](https://fernanda-bea.github.io/fernanda-beatrice-project-one/)
